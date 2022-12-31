@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.de4507d1.css",
+    "main.js": "/static/js/main.008e04cb.js",
+    "static/js/787.71df535f.chunk.js": "/static/js/787.71df535f.chunk.js",
+    "static/media/auricular-razer-kraken.png": "/static/media/auricular-razer-kraken.10c9c1455dc983d10917.png",
+    "static/media/Redragon-yama-k550.png": "/static/media/Redragon-yama-k550.88f0415461eab8e622fd.png",
+    "static/media/hyperX-Pulsefire-rgb.png": "/static/media/hyperX-Pulsefire-rgb.cc625b58cbb81cc3239e.png",
+    "static/media/ig-image.png": "/static/media/ig-image.138c5d97bfe72f87d1b6.png",
+    "static/media/whattsapp-image.png": "/static/media/whattsapp-image.f352caf6e057fbd3edff.png",
+    "index.html": "/index.html",
+    "main.de4507d1.css.map": "/static/css/main.de4507d1.css.map",
+    "main.008e04cb.js.map": "/static/js/main.008e04cb.js.map",
+    "787.71df535f.chunk.js.map": "/static/js/787.71df535f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de4507d1.css",
+    "static/js/main.008e04cb.js"
+  ]
+}
